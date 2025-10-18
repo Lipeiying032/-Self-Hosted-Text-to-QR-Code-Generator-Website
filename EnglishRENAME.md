@@ -96,3 +96,75 @@ new QRCode(qrcodeDiv, {
   colorDark: "#000000",
   colorLight: "#ffffff"
 });
+Contributing
+
+Issues and Pull Requests are welcome!
+
+1.Fork the repository
+
+2.Create a feature branch: git checkout -b feature/AmazingFeature
+
+3.Commit your changes: git commit -m 'Add some AmazingFeature'
+
+4.Push to the branch: git push origin feature/AmazingFeature
+
+5.Open a Pull Request
+
+Roadmap
+
+ 1.Support custom QR code colors
+
+ 2.Add logo watermark feature
+
+ 3.Batch QR code generation
+
+ 4.Add QR code download functionality
+
+ 5.Support more QR code styles
+
+ 6.Add history feature (local storage)
+
+ 7.Dark mode support
+
+FAQ
+
+Q: What if QR code generation fails?
+A: Please check if the input is too long; it is recommended not to exceed 2000 characters per generation.
+
+Q: Does Cloudflare Workers have traffic limits?
+A: The free plan allows 100,000 requests per day, sufficient for personal use.
+
+Q: How to save the generated QR code?
+A: Right-click the QR code and choose "Save image as," or use a screenshot tool.
+
+License
+
+This project is licensed under the MIT License.
+
+Acknowledgements
+
+QRCode.js
+ – QR code generation library
+
+Cloudflare Workers
+ – Serverless platform
+
+All contributors and users
+
+Contact
+
+For questions or suggestions, contact:
+
+Submit an Issue
+
+Start a Discussion
+
+Email: shabishabia1976@gmail.com
+
+<div align="center">
+
+If this project helps you, please give it a ⭐ Star!
+
+Made with ❤️ by Lipeiying032
+
+</div> ```
