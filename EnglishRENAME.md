@@ -98,7 +98,7 @@ new QRCode(qrcodeDiv, {
 });
 Contributing
 
-Issues and Pull Requests are welcome!
+###Issues and Pull Requests are welcome!
 
 1.Fork the repository
 
@@ -110,7 +110,7 @@ Issues and Pull Requests are welcome!
 
 5.Open a Pull Request
 
-Roadmap
+###Roadmap
 
  1.Support custom QR code colors
 
@@ -126,7 +126,7 @@ Roadmap
 
  7.Dark mode support
 
-FAQ
+##FAQ
 
 Q: What if QR code generation fails?
 A: Please check if the input is too long; it is recommended not to exceed 2000 characters per generation.
@@ -137,11 +137,11 @@ A: The free plan allows 100,000 requests per day, sufficient for personal use.
 Q: How to save the generated QR code?
 A: Right-click the QR code and choose "Save image as," or use a screenshot tool.
 
-License
+##License
 
 This project is licensed under the MIT License.
 
-Acknowledgements
+##Acknowledgements
 
 QRCode.js
  – QR code generation library
@@ -153,7 +153,7 @@ All contributors and users
 
 Contact
 
-For questions or suggestions, contact:
+##For questions or suggestions, contact:
 
 Submit an Issue
 
